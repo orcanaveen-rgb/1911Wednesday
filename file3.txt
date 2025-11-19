@@ -1,2 +1,4 @@
 This file is chosen for fetch demo
 To save the changes You have to use merge command
+The files can be uploaded to remote repository by using git push 
+
