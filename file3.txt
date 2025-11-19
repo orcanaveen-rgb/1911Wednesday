@@ -1,1 +1,2 @@
 This file is chosen for fetch demo
+To save the changes You have to use merge command
